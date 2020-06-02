@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VR+BJoHazneYYjuWojdXgJbgZKJh8Pk17qTlZTr2L4yvrNY4UDqx8z8WB0Tq9K07rUScrII379ln7m/mQV+Diw==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\PersonalCodeBase\\PromotionalEngine\\PromotionEngine\\PromotionalEngineAPI\\PromotionalEngineAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\praful_kumar_patel\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\praful_kumar_patel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\praful_kumar_patel\\.nuget\\packages\\serilog\\2.9.0\\serilog.2.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

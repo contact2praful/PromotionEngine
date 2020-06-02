@@ -1,0 +1,14 @@
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\PromotionJSON\Promotions.json
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\PromotionalEngineAPI.exe
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.csprojAssemblyReference.cache
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.AssemblyInfoInputs.cache
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.AssemblyInfo.cs
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.RazorTargetAssemblyInfo.cache
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\staticwebassets\PromotionalEngineAPI.StaticWebAssets.Manifest.cache
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\staticwebassets\PromotionalEngineAPI.StaticWebAssets.xml
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.csproj.CopyComplete
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\Serilog.dll

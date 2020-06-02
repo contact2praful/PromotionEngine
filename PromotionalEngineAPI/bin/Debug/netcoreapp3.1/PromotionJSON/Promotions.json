@@ -1,0 +1,31 @@
+{
+  "Promotions": [
+    {
+      "Identifier": "1",
+      "Type": "OnOneSKU",
+      "SKUCollection": {
+        "SKUId1": "A"
+      },
+      "OperatorCollection": {
+        "Operator1": "*"
+      },
+      "QutyOfSKUCollection": {
+        "QtyForSKUId1": "3" 
+      } 
+    },
+    {
+      "Identifier": "1",
+      "Type": "OnMultipleSKUsFixedPrice",
+      "SKUCollection": {
+        "SKUId1": "A",
+        "SKUId2": "B" 
+      },
+      "OperatorCollection": {
+        "Operator1": "+"
+      },
+      "QutyOfSKUCollection": {
+        "QtyForSKUId1": "1"
+      }
+    }
+  ]
+}
