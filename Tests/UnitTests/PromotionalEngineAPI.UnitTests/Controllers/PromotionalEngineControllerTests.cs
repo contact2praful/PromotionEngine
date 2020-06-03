@@ -13,5 +13,6 @@ namespace PromotionalEngineAPI.UnitTests.Controllers
 {
     class PromotionalEngineControllerTests
     {
+        //Not implementing since this is out of scope
     }
 }

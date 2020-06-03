@@ -79,15 +79,15 @@ namespace PromotionalEngineAPI.UnitTests.Handlers
                     {
                         new SKU()
                         {
-                            SKUId = "A", Cost = 50, Quty = 1, TotalSavings = 0
+                            SKUId = "A", CostPerSKU = 50, Quty = 1, TotalSavings = 0, TotalCost = 50
                         },
                         new SKU()
                         {
-                            SKUId = "B", Cost = 30, Quty = 1, TotalSavings = 0
+                            SKUId = "B", CostPerSKU = 30, Quty = 1, TotalSavings = 0, TotalCost = 30
                         },
                         new SKU()
                         {
-                            SKUId = "C", Cost = 20, Quty = 1, TotalSavings = 0
+                            SKUId = "C", CostPerSKU = 20, Quty = 1, TotalSavings = 0, TotalCost = 20
                         }
                     }
                 }
@@ -104,15 +104,15 @@ namespace PromotionalEngineAPI.UnitTests.Handlers
                     {
                         new SKU()
                         {
-                            SKUId = "A", Cost = 50, Quty = 5, TotalSavings = 0
+                            SKUId = "A", CostPerSKU = 50, Quty = 5, TotalSavings = 0, TotalCost = 250
                         },
                         new SKU()
                         {
-                            SKUId = "B", Cost = 30, Quty = 5, TotalSavings = 0
+                            SKUId = "B", CostPerSKU = 30, Quty = 5, TotalSavings = 0, TotalCost = 150
                         },
                         new SKU()
                         {
-                            SKUId = "C", Cost = 20, Quty = 1, TotalSavings = 0
+                            SKUId = "C", CostPerSKU = 20, Quty = 1, TotalSavings = 0, TotalCost = 20
                         }
                     }
                 }
@@ -129,19 +129,19 @@ namespace PromotionalEngineAPI.UnitTests.Handlers
                     {
                         new SKU()
                         {
-                            SKUId = "A", Cost = 50, Quty = 3, TotalSavings = 0
+                            SKUId = "A", CostPerSKU = 50, Quty = 3, TotalSavings = 0, TotalCost = 150
                         },
                         new SKU()
                         {
-                            SKUId = "B", Cost = 30, Quty = 5, TotalSavings = 0
+                            SKUId = "B", CostPerSKU = 30, Quty = 5, TotalSavings = 0, TotalCost = 150
                         },
                         new SKU()
                         {
-                            SKUId = "C", Cost = 20, Quty = 1, TotalSavings = 0
+                            SKUId = "C", CostPerSKU = 20, Quty = 1, TotalSavings = 0, TotalCost = 20
                         },
                         new SKU()
                         {
-                            SKUId = "D", Cost = 30, Quty = 1, TotalSavings = 0
+                            SKUId = "D", CostPerSKU = 30, Quty = 1, TotalSavings = 0, TotalCost = 30
                         }
                     }
                 }

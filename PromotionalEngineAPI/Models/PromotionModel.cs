@@ -26,6 +26,17 @@ namespace PromotionalEngineAPI.Models
         public Dictionary<string, string> OperatorCollection { get; set; }
 
         [JsonProperty("QutyOfSKUCollection")]
-        public Dictionary<string, string> DictiQutyOfSKUCollectiononary { get; set; }
+        public Dictionary<string, int> QutyOfSKUCollection { get; set; }
+
+        [JsonProperty("CostCollection")]
+        public Dictionary<string, int> CostCollection { get; set; }
+    }
+
+    public enum PromotionType
+    {
+        OnOneSKU = 0,
+        OnMultipleSKUsFixedPrice = 1,
+        OnTotalAmountInPercent = 2,
+        OnSingleSKUInPercent = 3
     }
 }

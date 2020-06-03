@@ -24,13 +24,13 @@ namespace PromotionalEngineAPI.Controllers
         }
 
         [HttpPost]
-        [Route("PostOrderData")]
+        [Route("ApplyPromotion")]
         public async Task<IActionResult> PostOrderFeed([FromBody]object request)
         {
             try
             {
                 _logger.Information("Received product feed from Cart for promotion calculation event");
-                _logger.Debug("Post Od=rder Feed event request {request}", request);
+                _logger.Debug("Post Order Feed event request {request}", request);
 
                 var orderFeed = JsonConvert.DeserializeObject<CartOrderContract>(request.ToString());
                 if (!orderFeed.CartOrder.Any())

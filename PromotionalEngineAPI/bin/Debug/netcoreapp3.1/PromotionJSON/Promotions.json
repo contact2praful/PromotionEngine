@@ -10,21 +10,45 @@
         "Operator1": "*"
       },
       "QutyOfSKUCollection": {
-        "QtyForSKUId1": "3" 
-      } 
+        "QtyForSKUId1": 3
+      },
+      "CostCollection": {
+        "CostForSKUId1": 130
+      }
     },
     {
-      "Identifier": "1",
+      "Identifier": "2",
+      "Type": "OnOneSKU",
+      "SKUCollection": {
+        "SKUId1": "B"
+      },
+      "OperatorCollection": {
+        "Operator1": "*"
+      },
+      "QutyOfSKUCollection": {
+        "QtyForSKUId1": 2
+      },
+      "CostCollection": {
+        "CostForSKUId1": 45
+      }
+    },
+    {
+      "Identifier": "3",
       "Type": "OnMultipleSKUsFixedPrice",
       "SKUCollection": {
-        "SKUId1": "A",
-        "SKUId2": "B" 
+        "SKUId1": "C",
+        "SKUId2": "D"
       },
       "OperatorCollection": {
         "Operator1": "+"
       },
       "QutyOfSKUCollection": {
-        "QtyForSKUId1": "1"
+        "QtyForSKUId1": "1",
+        "QtyForSKUId2": "1"
+      },
+      "CostCollection": {
+        "CostForSKUId1": 30,
+        "CostForSKUId2": 30
       }
     }
   ]
