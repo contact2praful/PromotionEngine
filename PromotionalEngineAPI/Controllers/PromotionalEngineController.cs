@@ -33,7 +33,7 @@ namespace PromotionalEngineAPI.Controllers
                 _logger.Debug("Post Od=rder Feed event request {request}", request);
 
                 var orderFeed = JsonConvert.DeserializeObject<CartOrderContract>(request.ToString());
-                if (!orderFeed.CartOrders.Any())
+                if (!orderFeed.CartOrder.Any())
                 {
                     return StatusCode(400, "No results found in product feed for promotion calculation event");
                 }

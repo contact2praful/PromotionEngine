@@ -3,7 +3,6 @@ C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngin
 C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\PromotionJSON\Promotions.json
 C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\PromotionalEngineAPI.exe
-C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.csprojAssemblyReference.cache
 C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.AssemblyInfoInputs.cache
 C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.AssemblyInfo.cs
 C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.RazorTargetAssemblyInfo.cache
@@ -12,3 +11,14 @@ C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngin
 C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.csproj.CopyComplete
 C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.csproj.CoreCompileInputs.cache
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\PromotionalEngineAPI.deps.json
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\PromotionalEngineAPI.runtimeconfig.json
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\PromotionalEngineAPI.runtimeconfig.dev.json
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\PromotionalEngineAPI.dll
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\PromotionalEngineAPI.pdb
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.dll
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.pdb
+C:\Workspace\PersonalCodeBase\PromotionalEngine\PromotionEngine\PromotionalEngineAPI\obj\Debug\netcoreapp3.1\PromotionalEngineAPI.genruntimeconfig.cache

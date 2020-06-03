@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionalEngineAPI", "PromotionalEngineAPI\PromotionalEngineAPI.csproj", "{F3699C85-57EB-4E5F-9E98-D8C4A1E7E94E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionalEngineAPI", "PromotionalEngineAPI\PromotionalEngineAPI.csproj", "{F3699C85-57EB-4E5F-9E98-D8C4A1E7E94E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{751F4F29-F983-44EF-AFAD-02E37080AB7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionalEngineAPI.UnitTests", "Tests\UnitTests\PromotionalEngineAPI.UnitTests\PromotionalEngineAPI.UnitTests.csproj", "{69BBA45C-D5B1-4189-8AD7-DC330B8CCE21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{F3699C85-57EB-4E5F-9E98-D8C4A1E7E94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3699C85-57EB-4E5F-9E98-D8C4A1E7E94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3699C85-57EB-4E5F-9E98-D8C4A1E7E94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BBA45C-D5B1-4189-8AD7-DC330B8CCE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BBA45C-D5B1-4189-8AD7-DC330B8CCE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BBA45C-D5B1-4189-8AD7-DC330B8CCE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BBA45C-D5B1-4189-8AD7-DC330B8CCE21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{69BBA45C-D5B1-4189-8AD7-DC330B8CCE21} = {751F4F29-F983-44EF-AFAD-02E37080AB7A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4C45831B-7D55-4187-8F36-21A60BABEE87}
